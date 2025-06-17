@@ -1,27 +1,39 @@
-<!-- README for V0!D -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Simply+V0!D...;Ethical+Hacker+%7C+Web+Dev+%7C+Nothingness" alt="Typing SVG" />
+<h1 style="color:#00FF00;">👾 Simply V0!D...</h1>
 
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/hacker.gif" width="300"/>
+<p><strong><span style="color:#00FF00;">Ethical Hacker 🛡️ | Web Dev🌐</span></strong></p>
+<p><em><span style="color:#00FF00;">“Just nothing...”</span></em></p>
 
----
+<br/>
 
-### 💻 About Me
-`Code. Hack. Repeat.`  
-Minimalist by nature, deviant by design.
+<p><span style="color:#00FF00;">
+Minimalist by nature, deviant by design.  
+I don't chase clout — I patch exploits, build clean UIs, and vanish in silence.  
+Secure. Precise. No bloat.
+</span></p>
 
----
+<br/>
 
-### 🛠️ Tech Stack
-`Web Dev` – HTML • CSS • JS • React • Node  
-`Hacking Tools` – Kali • Metasploit • Burp Suite • Wireshark  
-`Other` – Git • Linux • Firebase • MongoDB
+<h3 style="color:#00FF00;">⚙️ I Work With:</h3>
+<p><span style="color:#00FF00;">
+Frontend Dev – HTML • CSS • JavaScript • React • Figma  
+Network Recon & Ethical Exploitation – Kali, Burp, Nmap, Metasploit  
+</span></p>
 
----
+<br/>
 
-### 📫 Connect
-[Twitter](https://twitter.com/maxroshHQ)  | [Portfolio](https://yourwebsite.com)
+<h3 style="color:#00FF00;">🕶️ You Can:</h3>
+<p><span style="color:#00FF00;">
+• Ask me about web security, UI/UX, or ghosting logs  
+• Collaborate on dope open-source tools  
+• Reach me via <a href="https://twitter.com/yourhandle" style="color:#00FF00;">Twitter</a> or <a href="https://linkedin.com/in/yourprofile" style="color:#00FF00;">LinkedIn</a>  
+(<em>if you can find me...</em>)
+</span></p>
+
+<br/>
+
+<h3 style="color:#00FF00;">🖤 Quote:</h3>
+<blockquote><span style="color:#00FF00;">“V0!D isn't empty. It's full of potential.”</span></blockquote>
 
 </div>
