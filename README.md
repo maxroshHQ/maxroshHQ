@@ -1,41 +1,27 @@
-<!--
-   ____   ____   _   _  _____ 
-  |  _ \ / __ \ | \ | ||  __ \
-  | |_) | |  | ||  \| || |  | |
-  |  _ <| |  | || . ` || |  | |
-  | |_) | |__| || |\  || |__| |
-  |____/ \____/ |_| \_||_____/
-
-    ——— Simply V0!D ———
--->
+<!-- README for V0!D -->
 
 <div align="center">
-  <h1>👾 V0!D</h1>
-  <p><strong>Ethical Hacker</strong> 🛡️ &amp; <strong>Web Developer</strong> 🌐</p>
-  <em>“In a world full of noise, I am the V0!D.”</em>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Simply+V0!D...;Ethical+Hacker+%7C+Web+Dev+%7C+Nothingness" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/hacker.gif" width="300"/>
+
+---
+
+### 💻 About Me
+`Code. Hack. Repeat.`  
+Minimalist by nature, deviant by design.
+
+---
+
+### 🛠️ Tech Stack
+`Web Dev` – HTML • CSS • JS • React • Node  
+`Hacking Tools` – Kali • Metasploit • Burp Suite • Wireshark  
+`Other` – Git • Linux • Firebase • MongoDB
+
+---
+
+### 📫 Connect
+[Twitter](https://twitter.com/maxroshHQ)  | [Portfolio](https://yourwebsite.com)
+
 </div>
-
----
-
-### 🔎 What I Do
-- 🕵️ **Ethical Hacking** & Pen-testing  
-- 💻 **Full‑Stack Web Development** (React • Node.js • Next.js)  
-- 🔧 Building secure, scalable, pixel‑perfect experiences
-
----
-
-### ⚡ Quick Stats
-![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&layout=compact)
-
----
-
-### 📫 Reach Me
-- 🐦 [Twitter](https://twitter.com/YourHandle)  
-- 💬 [LinkedIn](https://linkedin.com/in/YourProfile)  
-- 📧 you@domain.tld
-
----
-
->*I script. I secure. I deploy.*  
->**— V0!D**
