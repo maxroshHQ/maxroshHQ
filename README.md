@@ -1,69 +1,107 @@
+<!-- @format -->
+
+# 👋 Just V0!D
+
 <div align="center">
-
-<h1 style="color:#00FF00;">👾 Simply V0!D...</h1>
-
-<p><em><span style="color:#00FF00;">“Just nothing...”</span></em></p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Engineer;Bot+Creator+%26+UI+Wizard;Building+Tomorrow's+Tools+Today;Hello+World!&background=000000&gradient=00FF00,39FF14" alt="Typing SVG" />
 
 </div>
 
-
-
----
-
-## 🌐 Socials  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxroshhq)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maxroshHQ)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maxroshhq)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxroshhq@gmail.com)  
-
----
-
--
-
 <div align="center">
-
-### 🖤 Quote  
-<blockquote><span style="color:#00FF00;">“V0!D isn't empty. It's full of potential.”</span></blockquote>
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=maxroshHQ&color=00D9FF&style=for-the-badge)](https://github.com/maxroshHQ)
+[![GitHub followers](https://img.shields.io/github/followers/maxroshHQ?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/maxroshHQ?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/maxroshHQ?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/maxroshHQ)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=%23FF61F6"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white"/>
-</p>
+- JUST V0!D
+<br><br>
+
+
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=maxroshHQ&theme=merko&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=maxroshHQ&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxroshHQ&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🔥 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=js,go,html,css,react,python,bashscript&theme=dark" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,powershell,tor&theme=dark" />
+
+
+
+</div>
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxroshHQ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxroshHQ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxroshHQ&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&currStreakNum=00D9FF&sideLabels=FFFFFF&sideNums=00D9FF&dates=FFFFFF" alt="GitHub Streak Stats"/>
+</div>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxroshHQ&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=HAKI's%20Contribution%20Graph" width="100%"/>
+</div>
+
 ---
 
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=maxroshHQ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏅 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxroshHQ&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=maxroshHQ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Built with love by V0!D -->
+
+<div align="center">
+
+
+
+### 📱 **Get In Touch**
+
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/maxroshHQ)
+
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 _"V0!D isn't empty. It's full of potential"_
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlign=50&fontAlignY=65&desc=Let's%20build%20the%20future%20together&descAlign=50&descAlignY=50"/>
+
+</div>
+
+---
+
+<details>
+
+- hack the planet!
+
+</details>
