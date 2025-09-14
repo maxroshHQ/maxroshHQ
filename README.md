@@ -9,9 +9,9 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=maxroshHQ&color=00D9FF&style=for-the-badge)](https://github.com/maxroshHQ)
-[![GitHub followers](https://img.shields.io/github/followers/maxroshHQ?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/maxroshHQ?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/maxroshHQ?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/maxroshHQ)
+[![Profile Views](https://komarev.com/ghpvc/?username=maxroshHQ&color=00FF00&style=for-the-badge)](https://github.com/maxroshHQ)
+[![GitHub followers](https://img.shields.io/github/followers/maxroshHQ?style=for-the-badge&color=00FF00&labelColor=1a1a1a)](https://github.com/maxroshHQ?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/maxroshHQ?style=for-the-badge&color=00FF00&labelColor=1a1a1a)](https://github.com/maxroshHQ)
 
 </div>
 
