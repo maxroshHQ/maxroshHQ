@@ -3,7 +3,7 @@
 # 👋 Just V0!D
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=;Hello+World!&background=000000&gradient=00FF00,39FF14" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!&background=000000&gradient=00FF00,39FF14" alt="Typing SVG" />
 
 </div>
 
@@ -57,11 +57,7 @@
 </div>
 
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxroshHQ&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=HAKI's%20Contribution%20Graph" width="100%"/>
-</div>
 
 ---
 
@@ -93,8 +89,6 @@
 ### 💭 _"V0!D isn't empty. It's full of potential"_
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlign=50&fontAlignY=65&desc=Let's%20build%20the%20future%20together&descAlign=50&descAlignY=50"/>
 
 </div>
 
