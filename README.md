@@ -32,7 +32,7 @@
 
 ### 🔥 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,python,bashscript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bashscript,...&theme=dark" />
 
 ### 🔧 Tools & Platforms
 
